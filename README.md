@@ -14,10 +14,10 @@ Atliq Hardware is a leading manufacturer of computer hardware in India and other
 
 #### Top Customers, Products, Markets : 
 
-  1. Problem Statement and Pre-Invoice Discount Report
-  2. Create a report for net sales
-  3. Top Markets and Customers 
+   1. Problem Statement and Pre-Invoice Discount Report
+   2. Create a report for net sales
+   3. Top Markets and Customers 
 
 #### Supply Chain Analytics
 
-  1. Forecast Accuracy Report
+   1. Forecast Accuracy Report

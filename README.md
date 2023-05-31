@@ -21,3 +21,13 @@ Atliq Hardware is a leading manufacturer of computer hardware in India and other
 #### Supply Chain Analytics
 
    1. Forecast Accuracy Report
+
+## Learnt things from this Project
+
+   1. Database Normalization & Data Integrity 
+   2. Entity Relationship Diagram 
+   3. ETL Data Warehouse, OLTP, OLAP, Data Catalog
+   4. Fact vs Dimension Table, Star vs Snowflake Schema 
+   5. Simplified : What is Kanban
+   6. 5 Ways SQL is used in the industry 
+   7. Supply Chain Basics : Simplified

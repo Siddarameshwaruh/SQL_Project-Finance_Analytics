@@ -8,19 +8,19 @@ Atliq Hardware is a leading manufacturer of computer hardware in India and other
 
 #### Finance Analytics :
 
-   1. Gross Sales Report: Monthly Product Transactions
-   2. Gross Sales Report: Total Sales Amount
-   3. Stored Procedure: Market Badge
+-  Gross Sales Report: Monthly Product Transactions
+-  Gross Sales Report: Total Sales Amount
+-  Stored Procedure: Market Badge
 
 #### Top Customers, Products, Markets : 
 
-   1. Problem Statement and Pre-Invoice Discount Report
-   2. Create a report for net sales
-   3. Top Markets and Customers 
+-  Problem Statement and Pre-Invoice Discount Report
+-  Create a report for net sales
+-  Top Markets and Customers 
 
 #### Supply Chain Analytics
 
-   1. Forecast Accuracy Report
+-  Forecast Accuracy Report
 
 ## Concepts Learnt : 
 
@@ -31,27 +31,27 @@ Atliq Hardware is a leading manufacturer of computer hardware in India and other
   #### Constraints 
   
   #### 1. SQL Basics : Data Retrieval 
-         a. Retrieve data using text query (SELECT, WHERE, DISTINCT, LIKE)
-         b. Retrieve data using numeric query (BETWEEN, IN , ORDER BY, LIMIT, OFFSET)
-         c. Summary analytics : MIN, MAX, AVG, GROUP BY
-         d. Having clause
-         e. SQL Joins : INNER, LEFT, RIGHT, FULL
+-  Retrieve data using text query (SELECT, WHERE, DISTINCT, LIKE)
+-  Retrieve data using numeric query (BETWEEN, IN , ORDER BY, LIMIT, OFFSET)
+-  Summary analytics : MIN, MAX, AVG, GROUP BY
+-  Having clause
+-  SQL Joins : INNER, LEFT, RIGHT, FULL
       
   #### 2. SQL : Complex Queries 
-         a. Subqueries 
-         b. ANY, ALL operators 
-         c. Common Table Expresssion (CTE)
-         d. User-Defined function
-         e. Stored Procedures 
-         f. Window Function : OVER clause 
-         g. Window Function : ROW_NUMBER, RANK, DENSE_RANK
+-  Subqueries 
+-  ANY, ALL operators 
+-  Common Table Expresssion (CTE)
+-  User-Defined function
+-  Stored Procedures 
+-  Window Function : OVER clause 
+-  Window Function : ROW_NUMBER, RANK, DENSE_RANK
                  
 ## Learnt things from this Project : 
 
-   1. Database Normalization & Data Integrity 
-   2. Entity Relationship Diagram 
-   3. ETL Data Warehouse, OLTP, OLAP, Data Catalog
-   4. Fact vs Dimension Table, Star vs Snowflake Schema 
-   5. Simplified : What is Kanban
-   6. 5 Ways SQL is used in the industry 
-   7. Supply Chain Basics : Simplified
+-  Database Normalization & Data Integrity 
+-  Entity Relationship Diagram 
+-  ETL Data Warehouse, OLTP, OLAP, Data Catalog
+-  Fact vs Dimension Table, Star vs Snowflake Schema 
+-  Simplified : What is Kanban
+-  5 Ways SQL is used in the industry 
+-  Supply Chain Basics : Simplified

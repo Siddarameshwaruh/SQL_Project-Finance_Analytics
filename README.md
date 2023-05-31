@@ -28,6 +28,8 @@ Atliq Hardware is a leading manufacturer of computer hardware in India and other
   
   #### Foreign Key 
   
+  #### Constraints 
+  
   #### 1. SQL Basics : Data Retrieval 
          a. Retrieve data using text query (SELECT, WHERE, DISTINCT, LIKE)
          b. Retrieve data using numeric query (BETWEEN, IN , ORDER BY, LIMIT, OFFSET)
